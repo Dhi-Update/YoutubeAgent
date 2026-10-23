@@ -2,9 +2,34 @@
   "id": "20261029-009",
   "font": "/usr/share/fonts/truetype/freefont/FreeSerif.ttf",
   "slides": [
-    {"text": "தமிழ்நாட்டின்\nமாநில மலர் எது?", "seconds": 3, "bg": "#1d3557", "fg": "#ffffff", "size": 88},
-    {"text": "?", "seconds": 1, "bg": "#1d3557", "fg": "#f4a261", "size": 300},
-    {"text": "காந்தள்\n(Gloriosa lily)", "seconds": 3, "bg": "#2a9d8f", "fg": "#ffffff", "size": 88},
-    {"text": "ArivuThuli Tamil\nதினமும் தமிழ் பொது அறிவு", "seconds": 2, "bg": "#1d3557", "fg": "#ffffff", "size": 70}
+    {
+      "text": "தமிழ்நாட்டின்\nமாநில மலர் எது?",
+      "seconds": 3,
+      "bg": "#1d3557",
+      "fg": "#ffffff",
+      "size": 88,
+      "icon": "lily"
+    },
+    {
+      "text": "?",
+      "seconds": 1,
+      "bg": "#1d3557",
+      "fg": "#f4a261",
+      "size": 300
+    },
+    {
+      "text": "காந்தள்\n(Gloriosa lily)",
+      "seconds": 3,
+      "bg": "#2a9d8f",
+      "fg": "#ffffff",
+      "size": 88
+    },
+    {
+      "text": "ArivuThuli Tamil\nதினமும் தமிழ் பொது அறிவு",
+      "seconds": 2,
+      "bg": "#1d3557",
+      "fg": "#ffffff",
+      "size": 70
+    }
   ]
 }

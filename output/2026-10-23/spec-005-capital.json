@@ -2,9 +2,34 @@
   "id": "20261023-005",
   "font": "/usr/share/fonts/truetype/freefont/FreeSerif.ttf",
   "slides": [
-    {"text": "தமிழ்நாட்டின்\nதலைநகரம் எது?", "seconds": 3, "bg": "#1d3557", "fg": "#ffffff", "size": 92},
-    {"text": "?", "seconds": 1, "bg": "#1d3557", "fg": "#f4a261", "size": 300},
-    {"text": "சென்னை\n(Chennai)", "seconds": 3, "bg": "#2a9d8f", "fg": "#ffffff", "size": 90},
-    {"text": "ArivuThuli Tamil\nதினமும் தமிழ் பொது அறிவு", "seconds": 2, "bg": "#1d3557", "fg": "#ffffff", "size": 70}
+    {
+      "text": "தமிழ்நாட்டின்\nதலைநகரம் எது?",
+      "seconds": 3,
+      "bg": "#1d3557",
+      "fg": "#ffffff",
+      "size": 92,
+      "icon": "pin"
+    },
+    {
+      "text": "?",
+      "seconds": 1,
+      "bg": "#1d3557",
+      "fg": "#f4a261",
+      "size": 300
+    },
+    {
+      "text": "சென்னை\n(Chennai)",
+      "seconds": 3,
+      "bg": "#2a9d8f",
+      "fg": "#ffffff",
+      "size": 90
+    },
+    {
+      "text": "ArivuThuli Tamil\nதினமும் தமிழ் பொது அறிவு",
+      "seconds": 2,
+      "bg": "#1d3557",
+      "fg": "#ffffff",
+      "size": 70
+    }
   ]
 }

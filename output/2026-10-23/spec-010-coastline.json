@@ -2,9 +2,34 @@
   "id": "20261030-010",
   "font": "/usr/share/fonts/truetype/freefont/FreeSerif.ttf",
   "slides": [
-    {"text": "தமிழ்நாட்டின் கடற்கரை\nநீளம் எவ்வளவு?", "seconds": 3, "bg": "#1d3557", "fg": "#ffffff", "size": 80},
-    {"text": "?", "seconds": 1, "bg": "#1d3557", "fg": "#f4a261", "size": 300},
-    {"text": "சுமார் 1,076 கி.மீ.", "seconds": 3, "bg": "#2a9d8f", "fg": "#ffffff", "size": 84},
-    {"text": "ArivuThuli Tamil\nதினமும் தமிழ் பொது அறிவு", "seconds": 2, "bg": "#1d3557", "fg": "#ffffff", "size": 70}
+    {
+      "text": "தமிழ்நாட்டின் கடற்கரை\nநீளம் எவ்வளவு?",
+      "seconds": 3,
+      "bg": "#1d3557",
+      "fg": "#ffffff",
+      "size": 80,
+      "icon": "coast"
+    },
+    {
+      "text": "?",
+      "seconds": 1,
+      "bg": "#1d3557",
+      "fg": "#f4a261",
+      "size": 300
+    },
+    {
+      "text": "சுமார் 1,076 கி.மீ.",
+      "seconds": 3,
+      "bg": "#2a9d8f",
+      "fg": "#ffffff",
+      "size": 84
+    },
+    {
+      "text": "ArivuThuli Tamil\nதினமும் தமிழ் பொது அறிவு",
+      "seconds": 2,
+      "bg": "#1d3557",
+      "fg": "#ffffff",
+      "size": 70
+    }
   ]
 }

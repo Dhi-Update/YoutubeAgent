@@ -2,10 +2,41 @@
   "id": "20261023-003",
   "font": "/usr/share/fonts/truetype/freefont/FreeSerif.ttf",
   "slides": [
-    {"text": "தமிழ்நாட்டின்\nமாநில மரம் எது?", "seconds": 3, "bg": "#1d3557", "fg": "#ffffff", "size": 92},
-    {"text": "?", "seconds": 1, "bg": "#1d3557", "fg": "#f4a261", "size": 300},
-    {"text": "பனை மரம்\n(Palmyra palm)", "seconds": 3, "bg": "#2a9d8f", "fg": "#ffffff", "size": 88},
-    {"text": "மாநில விலங்கு: நீலகிரி வரையாடு\nமாநில பறவை: பச்சைப் புறா", "seconds": 3, "bg": "#264653", "fg": "#ffffff", "size": 62},
-    {"text": "ArivuThuli Tamil\nதினமும் தமிழ் பொது அறிவு", "seconds": 2, "bg": "#1d3557", "fg": "#ffffff", "size": 70}
+    {
+      "text": "தமிழ்நாட்டின்\nமாநில மரம் எது?",
+      "seconds": 3,
+      "bg": "#1d3557",
+      "fg": "#ffffff",
+      "size": 92,
+      "icon": "palm"
+    },
+    {
+      "text": "?",
+      "seconds": 1,
+      "bg": "#1d3557",
+      "fg": "#f4a261",
+      "size": 300
+    },
+    {
+      "text": "பனை மரம்\n(Palmyra palm)",
+      "seconds": 3,
+      "bg": "#2a9d8f",
+      "fg": "#ffffff",
+      "size": 88
+    },
+    {
+      "text": "மாநில விலங்கு: நீலகிரி வரையாடு\nமாநில பறவை: பச்சைப் புறா",
+      "seconds": 3,
+      "bg": "#264653",
+      "fg": "#ffffff",
+      "size": 62
+    },
+    {
+      "text": "ArivuThuli Tamil\nதினமும் தமிழ் பொது அறிவு",
+      "seconds": 2,
+      "bg": "#1d3557",
+      "fg": "#ffffff",
+      "size": 70
+    }
   ]
 }
