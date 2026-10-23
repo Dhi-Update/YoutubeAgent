@@ -8,7 +8,8 @@
       "bg": "#1d3557",
       "fg": "#ffffff",
       "size": 88,
-      "icon": "lily"
+      "icon": "lily",
+      "animate": true
     },
     {
       "text": "?",
