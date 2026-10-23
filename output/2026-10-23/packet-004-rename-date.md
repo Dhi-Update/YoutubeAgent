@@ -1,11 +1,11 @@
 # Upload packet — 20261023-004
 
-- Source file: awaiting media (inbox/ empty)
+- Source file: output/2026-10-23/media/20261023-004.mp4 (rendered by tools/make_short.py from spec-004-rename-date.json)
 - Type: Short
-- Duration: awaiting media
+- Duration: 12.0 s, 1080x1920, 30 fps
 - Publish (IST): 2026-10-26 19:30
 - Series: Daily Tamil GK Shorts
-- Status: ready_after_media (facts verified, official check still advised)
+- Status: media_ready (official check still advised before publishing)
 
 ## Title (Tamil)
 தமிழ்நாடு பெயர் மாற்றம் எப்போது? | Tamil GK #Shorts
