@@ -3,7 +3,7 @@
 - Source file: output/2026-10-23/media/20261023-003.mp4 (rendered by tools/make_short.py from spec-003-state-tree.json)
 - Type: Short
 - Duration: 12.0 s, 1080x1920, 30 fps
-- Publish (IST): 2026-10-25 13:00
+- Publish (IST): 2026-10-25 07:30
 - Series: Daily Tamil GK Shorts
 - Status: media_ready (official check still advised before publishing)
 

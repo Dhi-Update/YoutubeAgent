@@ -1,0 +1,10 @@
+{
+  "id": "20261026-006",
+  "font": "/usr/share/fonts/truetype/freefont/FreeSerif.ttf",
+  "slides": [
+    {"text": "தமிழ்நாட்டின்\nஅதிகாரப்பூர்வ மொழி எது?", "seconds": 3, "bg": "#1d3557", "fg": "#ffffff", "size": 84},
+    {"text": "?", "seconds": 1, "bg": "#1d3557", "fg": "#f4a261", "size": 300},
+    {"text": "தமிழ்\n(ஆங்கிலமும் கூடுதல் அதிகாரப்பூர்வ மொழி)", "seconds": 3, "bg": "#2a9d8f", "fg": "#ffffff", "size": 76},
+    {"text": "ArivuThuli Tamil\nதினமும் தமிழ் பொது அறிவு", "seconds": 2, "bg": "#1d3557", "fg": "#ffffff", "size": 70}
+  ]
+}
