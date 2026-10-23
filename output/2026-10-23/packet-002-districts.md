@@ -3,7 +3,7 @@
 - Source file: awaiting media (inbox/ empty)
 - Type: Short
 - Duration: awaiting media
-- Publish (IST): 2026-10-24 07:30
+- Publish (IST): HELD (not scheduled until the district count is officially verified)
 - Series: Daily Tamil GK Shorts
 - Status: needs_check (district count not yet confirmed with official source)
 
